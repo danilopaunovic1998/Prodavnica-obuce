@@ -1,0 +1,6 @@
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\Domen\bin\Debug\Domen.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\Domen\bin\Debug\Domen.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\Domen\obj\Debug\Domen.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\Domen\obj\Debug\Domen.pdb

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0F8A5869-C507-4421-A23A-6B664F5B3BAD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SystemOperations</RootNamespace>
+    <AssemblyName>SystemOperations</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonSystemOperation.cs" />
+    <Compile Include="FotwearSO\AddNewFootwearSO.cs" />
+    <Compile Include="FotwearSO\DeleteFootwearSO.cs" />
+    <Compile Include="FotwearSO\FindFootwearSO.cs" />
+    <Compile Include="FotwearSO\UpdateFootwearSO.cs" />
+    <Compile Include="OrderSO\FindOrdersSO.cs" />
+    <Compile Include="OrderSO\LoadOrderSO.cs" />
+    <Compile Include="OrderSO\SaveOrderSO.cs" />
+    <Compile Include="PremiumUserSO\AddNewPremiumUserSO.cs" />
+    <Compile Include="PremiumUserSO\FindPremiumUserSO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StoreEmployeeSO\LogInSO.cs" />
+    <Compile Include="SupplierSO\AddNewSupplierSO.cs" />
+    <Compile Include="SupplierSO\FindSuppliersSO.cs" />
+    <Compile Include="SupplierSO\ReturnAllSuppliersSO.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Broker\DBBroker.csproj">
+      <Project>{eab93676-954b-44ee-b117-b2aac10f2cb0}</Project>
+      <Name>DBBroker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{f65ae1a8-0d81-4e12-b648-8aa8624ef892}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

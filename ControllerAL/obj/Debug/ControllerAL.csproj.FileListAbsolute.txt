@@ -1,0 +1,13 @@
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\ControllerAL.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\ControllerAL.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\Domen.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\SystemOperations.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\Broker.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\Domen.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\SystemOperations.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\bin\Debug\Broker.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\obj\Debug\ControllerAL.csprojAssemblyReference.cache
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\obj\Debug\ControllerAL.csproj.CoreCompileInputs.cache
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\obj\Debug\ControllerAL.csproj.CopyComplete
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\obj\Debug\ControllerAL.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\ControllerAL\obj\Debug\ControllerAL.pdb

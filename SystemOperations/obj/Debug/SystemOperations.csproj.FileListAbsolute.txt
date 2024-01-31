@@ -1,0 +1,11 @@
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\bin\Debug\SystemOperations.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\bin\Debug\SystemOperations.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\bin\Debug\Broker.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\bin\Debug\Domen.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\bin\Debug\Broker.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\bin\Debug\Domen.pdb
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\obj\Debug\SystemOperations.csprojAssemblyReference.cache
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\obj\Debug\SystemOperations.csproj.CoreCompileInputs.cache
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\obj\Debug\SystemOperations.csproj.CopyComplete
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\obj\Debug\SystemOperations.dll
+D:\FAX\FON 1. semestar\4. godina\Projektovanje softvera\Moj seminarski konacno\ProdavnicaObuce\SystemOperations\obj\Debug\SystemOperations.pdb
